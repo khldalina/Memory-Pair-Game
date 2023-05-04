@@ -1,5 +1,5 @@
 const rootElement = document.getElementById('root');
-const CARD_TYPES = ["hulk", "iron-man", "captain-America", "thor", "batman", "black-panther", "groot", "spider-man"];
+const CARD_TYPES = ["hulk", "iron-man", "captain-America", "thor", "batman", "black-panther", "ultron", "spider-man"];
 
 function shuffleArray(array) {
     for(let j, x, i = array.length; i; j = parseInt(Math.random() * i),

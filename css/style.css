@@ -75,35 +75,35 @@ header p {
     transform: rotateY(180deg);
 }
 
-.jabba .back {
+.hulk .back {
     background: url('../img/hulk.jpeg') no-repeat center center / cover, #fff;
 }
 
-.obi .back {
+.iron-man.back {
     background: url('../img/iron-man.jpeg') no-repeat center center / cover, #fff;
 }
 
-.c3po .back {
+.captain-America.back {
     background: url('../img/thor.jpeg') no-repeat center center / cover, #fff;
 }
 
-.chewbacca .back {
-    background: url('../img/captain-America.png') no-repeat center center / cover, #fff;
+.thor .back {
+    background: url('../img/captain-America.jpeg') no-repeat center center / cover, #fff;
 }
 
-.leia .back {
+.batman .back {
     background: url('../img/batman.jpeg') no-repeat center center / cover, #fff;
 }
 
-.luke .back {
+.black-panther .back {
     background: url('../img/black-panther.jpeg') no-repeat center center / cover, #fff;
 }
 
-.vader .back {
+.ultron .back {
     background: url('../img/ultron.jpeg') no-repeat center center / cover, #fff;
 }
 
-.yoda .back {
+.spider-man .back {
     background: url('../img/spider-man.jpeg') no-repeat center center / cover, #fff;
 }
 
