@@ -84,11 +84,11 @@ header p {
 }
 
 .captain-America .back {
-    background: url('../img/thor.jpeg') no-repeat center center / cover, #fff;
+    background: url('../img/captain-America.jpeg') no-repeat center center / cover, #fff;
 }
 
 .thor .back {
-    background: url('../img/captain-America.jpeg') no-repeat center center / cover, #fff;
+    background: url('../img/thor.jpeg') no-repeat center center / cover, #fff;
 }
 
 .batman .back {
